@@ -7,7 +7,19 @@ format:
     css: styles.css
     toc: true
     keep-md: true
-  commonmark: default
+    commonmark: default
+    # --- New Settings from Image 2 ---
+    grid:
+      margin-width: 350px
+    reference-location: margin
+    citation-location: margin
+  
+  # Adds PDF support (from Image 2)
+  pdf: default
+
+# --- New Settings from Image 2 ---
+execute:
+  echo: fenced
 
 website:
   twitter-card: true
