@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello"
+  site-url: "https://fivetwentythree.github.io/nbdev-hello"
+  description: "This is the first one"
+  repo-branch: main
+  repo-url: "https://github.com/fivetwentythree/nbdev-hello"
